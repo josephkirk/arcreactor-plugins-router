@@ -1,0 +1,6 @@
+name = "router-git"
+version = "0.1.0"
+type = "router"
+timing = "default"
+priority = 50
+description = "Exposes Git commands to agents via MCP."
